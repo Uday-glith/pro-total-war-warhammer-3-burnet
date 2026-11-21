@@ -184,7 +184,7 @@ Use the button in the Quick Start section.
 
 ---
 
-*Total War: WARHAMMER III · Updated 2026-11-20 · Shared under the MIT License*
+*Total War: WARHAMMER III · Updated 2026-11-21 · Shared under the MIT License*
 
 
-Updated 2026-11-20.
+Updated 2026-11-21.
